@@ -1,0 +1,28 @@
+h2{
+	margin:0;
+	padding:0;
+	-webkit-background-size :cover;
+	background-size :cover;
+}
+
+
+h1{
+	color:white;
+	background-color:green;
+}
+h2{
+		color:white;
+	background-color:green;
+	
+	
+}
+h1{
+	text-align: center;
+}
+body{
+	background-image : black;
+}
+h1{
+	left :5 px;
+	top :20 px;
+}
